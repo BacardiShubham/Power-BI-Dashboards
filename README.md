@@ -35,7 +35,7 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](cdd56524-5b40-4098-98c5-ccfe0cfb5888.png)
+![Dashboard Screenshot]([cdd56524-5b40-4098-98c5-ccfe0cfb5888.png](https://github.com/BacardiShubham/Power-BI-Dashboards/blob/main/Smartphone%20Sales%20Preview.png))
 
 ---
 
