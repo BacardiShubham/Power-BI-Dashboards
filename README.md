@@ -32,7 +32,7 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](![Smartphone Sales Preview](https://github.com/user-attachments/assets/a7b9f9d4-03b0-4ec9-a308-fa82d4da7d60)
+[Dashboard Screenshot](![Smartphone Sales Preview](https://github.com/user-attachments/assets/a7b9f9d4-03b0-4ec9-a308-fa82d4da7d60)
 )
 
 ---
