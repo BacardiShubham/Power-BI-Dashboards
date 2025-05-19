@@ -27,18 +27,6 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 ---
 
-## 📂 File
-
-- `Smartphone Sales.pbix`: The Power BI dashboard file
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot]([https://github.com/BacardiShubham/Power-BI-Dashboards/blob/main/Smartphone%20Sales%20Preview.png])
-
----
-
 ## 💡 Use Cases
 
 - Business performance monitoring  
@@ -56,9 +44,4 @@ To view or modify this dashboard:
 3. Open the `.pbix` file in Power BI Desktop
 
 
----
-
-## 🙌 Feedback
-
-If you have suggestions or feedback, feel free to open an issue or contact me!
 
