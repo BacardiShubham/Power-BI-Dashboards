@@ -1,6 +1,3 @@
-# Power-BI-Dashboards
-This Power BI dashboard visualizes smartphone sales data to uncover key business insights. It includes dynamic filters, geographical mapping, product performance, customer ratings, and transaction analysis. The project demonstrates DAX implementation, and interactive report design to support decision-making in sales analytics.
-
 # 📱 Smartphone Sales Dashboard – Power BI
 
 This repository contains a fully interactive **Power BI dashboard** designed to analyze and visualize smartphone sales data. The dashboard provides meaningful business insights through data storytelling and allows users to explore sales trends, product performance, customer feedback, and transaction behaviors.
