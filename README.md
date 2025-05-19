@@ -27,9 +27,9 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 ---
 
-## 📂 File
+## 📂 Dataset
 
-- <a href="https://github.com/BacardiShubham/Power-BI-Dashboards/blob/main/Smartphone%20Sales%20Data.xlsx">Dataset</a>
+- <a href="https://github.com/BacardiShubham/Power-BI-Dashboards/blob/main/Smartphone%20Sales%20Data.xlsx">Smartphone Sales Data</a>
 
 ---
 
