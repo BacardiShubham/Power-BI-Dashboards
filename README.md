@@ -29,7 +29,7 @@ This repository contains a fully interactive **Power BI dashboard** designed to 
 
 ## 📂 File
 
-- `Phone_Sales_Dashboard.pbix`: The Power BI dashboard file
+- <a href="https://github.com/BacardiShubham/Power-BI-Dashboards/blob/main/Smartphone%20Sales%20Data.xlsx">Dataset</a>
 
 ---
 
